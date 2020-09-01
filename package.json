@@ -6,7 +6,11 @@
   "dependencies": {
     "axios": "^0.20.0",
     "inquirer": "^7.3.3",
-    "jest": "^26.4.2"
+    "jest": "^26.4.2",
+    "lib": "^4.3.0",
+    "require": "^2.4.20",
+    "test": "^0.6.0",
+    "util": "^0.12.3"
   },
   "devDependencies": {},
   "scripts": {
