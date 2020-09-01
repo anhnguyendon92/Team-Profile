@@ -105,7 +105,7 @@ function startHtml() {
         </nav>
         <div class="container">
             <div class="row">`;
-    fs.writeFile("./output/team.html", html, function (err) {
+    fs.writeFile("./team.html", html, function (err) {
         if (err) {
             console.log(err);
         }
